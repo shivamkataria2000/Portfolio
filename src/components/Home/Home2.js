@@ -25,7 +25,7 @@ function Home2() {
               <br />
               <br />
               With expertise in both frontend and backend development, I have
-              ex- perience utilizing technologies such as{" "}
+              experience utilizing technologies such as{" "}
               <i>
                 <b className="purple">
                   Angular, Spring Boot, React and Node.js.
